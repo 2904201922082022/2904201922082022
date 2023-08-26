@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitor Santos
-- 👀 I’m interested in Automation Tests
+- 👀 I’m working as Engineer Automation Tests
 - 🌱 I’m currently learning A.I TESTING
 - 💞️ I’m looking to collaborate on International Project
 - 📫 How to reach me vitorvictal@gmail.com
